@@ -40,9 +40,11 @@ df.replace({"Gender": {"Male": 1, "Female": 0},
 ```
 ### Visualizations
 1. Distribution of Loan Status by Education: The following bar chart visualizes how loan approval status varies with the education level of applicants.
+
 ![Bar chart on loan approvals by education level](images/education.png)
 
 2.Distribution of Loan Status by Marital Status: This bar chart shows the distribution of loan approval based on marital status.
+
 ![Bar chart on loan approvals by marital status](images/married.png)
 ### Model Building
 1. Splitting the Dataset: The dataset was split into training and test sets.
